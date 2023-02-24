@@ -1,2 +1,4 @@
-# Gradle Docker Codefresh example
+# Gradle Docker example based on Github actions
+
+
 
